@@ -1,6 +1,6 @@
 [project]
 name = "datasette-debug-events"
-version = "0.1a1"
+version = "0.1a2"
 description = "Print Datasette events to standard error"
 readme = "README.md"
 authors = [{name = "Simon Willison"}]
